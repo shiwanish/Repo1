@@ -1,10 +1,1 @@
- Volume in drive C is OSDisk
- Volume Serial Number is FAC1-F5A4
-
- Directory of C:\Users\shiwani.shrivastava\Desktop\MyProject
-
-12/19/2018  12:09 PM    <DIR>          .
-12/19/2018  12:09 PM    <DIR>          ..
-12/19/2018  12:09 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  37,814,812,672 bytes free
+Hello World
